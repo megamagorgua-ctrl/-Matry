@@ -1,0 +1,208 @@
+Uri: https://drive.usercontent.google.com/download?id=1leljrBM-rnjRS0yLRyQv3kjm9hOtzFbp&export=view
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\download
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Libre+Bodoni:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/librebodoni/v5/_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6FNYwWw.ttf
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\s\librebodoni\v5\_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6FNYwWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebodoni/v5/_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6GpYwWw.ttf
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\s\librebodoni\v5\_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6GpYwWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebodoni/v5/_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6I1fwWw.ttf
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\s\librebodoni\v5\_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6I1fwWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebodoni/v5/_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6L9fwWw.ttf
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\s\librebodoni\v5\_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6L9fwWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebodoni/v5/_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUc9yjTdA.ttf
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\s\librebodoni\v5\_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUc9yjTdA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebodoni/v5/_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUcGy_TdA.ttf
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\s\librebodoni\v5\_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUcGy_TdA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebodoni/v5/_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUcKS_TdA.ttf
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\s\librebodoni\v5\_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUcKS_TdA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebodoni/v5/_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUczijTdA.ttf
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\s\librebodoni\v5\_Xm4-H45qDWDYULr5OfyZud9xBKfuwNnnsVZ_UUczijTdA.ttf
+Content Type: font/ttf
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://sentierosaggio.github.io/calcolatrice/
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\calcolatrice\index.htm
+Content Type: text/html
+
+Uri: https://static.tildacdn.com/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/highlight.min.css
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\css\highlight.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\fonts\tildasans\TildaSans-VF.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.com/js/highlight.min.js
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\js\highlight.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\sentierosaggio.github.io\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
